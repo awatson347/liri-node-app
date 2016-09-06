@@ -1,0 +1,17 @@
+{
+name: "liri-node-app",
+version: "1.0.0",
+description: "",
+main: "keys.js",
+scripts: {
+test: "echo "Error: no test specified" && exit 1"
+},
+author: "",
+license: "ISC",
+dependencies: {
+fs: "0.0.1-security",
+request: "^2.74.0",
+spotify: "^0.3.0",
+twitter: "^1.4.0"
+}
+}
